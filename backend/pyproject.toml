@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.11"
 fastapi = "^0.104.1"
 uvicorn = {extras = ["standard"], version = "^0.24.0.post1"}
-requests = "^2.31.0"
+requests = "^2.32.4"
 python-dotenv = "^1.0.0"
 motor = "^3.3.1"
 aiofiles = "^23.2.1"
